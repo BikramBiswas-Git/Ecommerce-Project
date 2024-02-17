@@ -10,11 +10,11 @@ import com.aventstack.extentreports.ExtentTest;
 import Test.AbstractComponent.AbstractComponent;
 import Test.BaseComponents.BaseComponentsDemo;
 
-public class BaseTestPanorama extends BaseComponentsDemo
+public class BaseTest extends BaseComponentsDemo
 
 {
 
-	public BaseTestPanorama() {
+	public BaseTest() {
 		// Default constructor
 	}
 
