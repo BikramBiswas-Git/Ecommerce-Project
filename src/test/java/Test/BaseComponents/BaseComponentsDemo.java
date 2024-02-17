@@ -23,7 +23,6 @@ import org.testng.annotations.BeforeMethod;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import Test.PageObjectModel.LoginPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseComponentsDemo {
@@ -56,9 +55,9 @@ public class BaseComponentsDemo {
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
 		File destination = new File(
-				"/Users/codeclouds-bikramb/Downloads/eclipse-workspace/Frameworks/reports/" + testCaseName + ".png");
+				"C:\\Users\\bikub\\OneDrive\\Desktop\\Documents\\Selenium Project\\Frameworks\\reports\\" + testCaseName + ".png");
 		FileUtils.copyFile(source, destination);
-		return "/Users/codeclouds-bikramb/Downloads/eclipse-workspace/Frameworks/reports/" + testCaseName + ".png";
+		return "C:\\Users\\bikub\\OneDrive\\Desktop\\Documents\\Selenium Project\\Frameworks\\reports\\" + testCaseName + ".png";
 	}
 
 }

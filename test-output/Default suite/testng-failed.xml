@@ -5,7 +5,7 @@
     <classes>
       <class name="Test.BaseTestPanorama">
         <methods>
-          <include name="Categories"/>
+          <include name="Tracking"/>
         </methods>
       </class> <!-- Test.BaseTestPanorama -->
     </classes>

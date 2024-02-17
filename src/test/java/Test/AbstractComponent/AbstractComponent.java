@@ -9,8 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import Test.PageObjectModel.CartPage;
-import Test.PageObjectModel.orderPage;
+
 
 public class AbstractComponent {
 
@@ -56,19 +55,19 @@ public class AbstractComponent {
 
 	}
 
-	public CartPage goToCartPage() {
-		
-				driver.findElement(By.cssSelector("[routerlink='/dashboard/cart']")).click();
-				CartPage cartPage = new CartPage(driver);
-				return cartPage;
-			}
-		
-			public static orderPage orderPageClick() {
-				driver.findElement(By.cssSelector("button[routerlink$='/dashboard/myorders']")).click();
-				orderPage order = new orderPage(driver);
-				return order;
-		
-			}
+//	public CartPage goToCartPage() {
+//		
+//				driver.findElement(By.cssSelector("[routerlink='/dashboard/cart']")).click();
+//				CartPage cartPage = new CartPage(driver);
+//				return cartPage;
+//			}
+//		
+//			public static orderPage orderPageClick() {
+//				driver.findElement(By.cssSelector("button[routerlink$='/dashboard/myorders']")).click();
+//				orderPage order = new orderPage(driver);
+//				return order;
+//		
+//			}
 
 
 }
