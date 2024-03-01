@@ -6,7 +6,7 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 public class ExtentReportNG {
     
     public static ExtentReports getReportObject() {
-        String path = "C:\\Users\\bikub\\OneDrive\\Desktop\\Documents\\Selenium Project\\Frameworks\\reports\\report.html";
+        String path = "/Users/codeclouds-bikram/Documents/Ecommerce-Automation/reports/report.html";
         ExtentSparkReporter reporter = new ExtentSparkReporter(path);
         reporter.config().setReportName("Web Automation result of Panorama Track");
         reporter.config().setDocumentTitle("Panorama Track");

@@ -6,11 +6,11 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Test.BaseTestPanorama">
+      <class name="Test.BaseTest">
         <methods>
           <include name="Tracking"/>
         </methods>
-      </class> <!-- Test.BaseTestPanorama -->
+      </class> <!-- Test.BaseTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

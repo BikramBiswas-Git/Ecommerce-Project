@@ -55,9 +55,9 @@ public class BaseComponentsDemo {
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
 		File destination = new File(
-				"C:\\Users\\bikub\\OneDrive\\Desktop\\Documents\\Selenium Project\\Frameworks\\reports\\" + testCaseName + ".png");
+				"/Users/codeclouds-bikram/Documents/Ecommerce-Automation/reports/" + testCaseName + ".png");
 		FileUtils.copyFile(source, destination);
-		return "C:\\Users\\bikub\\OneDrive\\Desktop\\Documents\\Selenium Project\\Frameworks\\reports\\" + testCaseName + ".png";
+		return "/Users/codeclouds-bikram/Documents/Ecommerce-Automation/reports/" + testCaseName + ".png";
 	}
 
 }
