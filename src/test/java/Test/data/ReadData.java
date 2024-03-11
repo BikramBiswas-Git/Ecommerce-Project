@@ -13,8 +13,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class ReadData {
 	public List<HashMap<String, String>> getJsonDataToMap() throws IOException {
-		String jsonContent = FileUtils.readFileToString(
-				new File(System.getProperty("user.dir") + "//src//main//java//Test//data//JsonData.Json"),
+		String jsonContent = FileUtils.readFileToString(new File(
+				"/Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/java/Test/data/JsonData.Json"),
 				StandardCharsets.UTF_8);
 		ObjectMapper mapper = new ObjectMapper();
 		List<HashMap<String, String>> data = mapper.readValue(jsonContent,

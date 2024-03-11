@@ -8,7 +8,7 @@
     <classes>
       <class name="Test.BaseTest">
         <methods>
-          <include name="Tracking"/>
+          <include name="SignUpPageTest"/>
         </methods>
       </class> <!-- Test.BaseTest -->
     </classes>

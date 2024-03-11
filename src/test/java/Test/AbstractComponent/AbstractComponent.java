@@ -13,7 +13,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class AbstractComponent {
 
-	By cart = By.cssSelector("[routerlink='/dashboard/cart']");
 
 	public static WebDriver driver;
 
@@ -23,37 +22,22 @@ public class AbstractComponent {
 		PageFactory.initElements(driver, this);
 	}
 
-	public void waitFunctionVisibility(By ele) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(60));
-		wait.until(ExpectedConditions.visibilityOfElementLocated(ele));
+	public static void waitFunctionVisibility(WebElement element) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(60));
+        wait.until(ExpectedConditions.visibilityOf(element));
+    }
 
-	}
+    public void waitFunctionInVisibility(WebElement element) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(60));
+        wait.until(ExpectedConditions.invisibilityOf(element));
+    }
 
-	public void waitFunctionVisibilityElement(WebElement error) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(60));
-		wait.until(ExpectedConditions.visibilityOf(error));
+   
 
-	}
-
-	public void waitFunctionInVisibility(By ele) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(60));
-		wait.until(ExpectedConditions.invisibilityOfElementLocated(ele));
-
-	}
-
-//	
-
-	public void waitFunctionEnabled(By ele) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
-		wait.until(ExpectedConditions.presenceOfElementLocated(ele));
-
-	}
-
-	public void waitFunctionEnabledOrDisabled(By ele) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
-		wait.until(ExpectedConditions.elementToBeClickable(ele));
-
-	}
+    public void waitFunctionEnabledOrDisabled(WebElement element) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+        wait.until(ExpectedConditions.elementToBeClickable(element));
+    }
 
 //	public CartPage goToCartPage() {
 //		
@@ -71,4 +55,3 @@ public class AbstractComponent {
 
 
 }
-
