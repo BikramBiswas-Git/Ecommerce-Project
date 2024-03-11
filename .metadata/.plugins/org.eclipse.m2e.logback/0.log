@@ -1,0 +1,71 @@
+2024-03-11 17:22:03,804 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-11 17:23:45,811 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FrameworksTutorial:TestNGFramework:0.0.1-SNAPSHOT @ /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/pom.xml.
+2024-03-11 17:28:01,439 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FrameworksTutorial:TestNGFramework:0.0.1-SNAPSHOT @ /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/pom.xml.
+2024-03-11 17:28:02,825 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:28:02,825 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:28:02,829 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:28:02,829 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:33:40,710 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:33:40,715 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:33:40,728 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:33:40,734 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:33:57,240 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:33:57,241 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:33:57,244 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:33:57,244 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:34:16,028 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:34:16,028 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:34:16,037 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:34:16,037 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:34:34,468 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:34:34,468 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:34:34,478 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:34:34,494 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:35:02,756 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:35:02,757 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:35:02,760 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:35:02,761 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:35:45,588 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:35:45,588 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:35:45,597 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:35:45,597 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:36:26,676 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:36:26,676 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:36:26,691 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:36:26,692 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:36:44,235 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:36:44,238 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:36:44,246 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:36:44,248 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:37:36,008 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:37:36,008 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:37:36,011 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:37:36,011 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:38:02,485 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:38:02,491 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:38:02,530 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:38:02,530 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:39:48,238 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:39:48,239 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:39:48,240 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:39:48,241 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:41:51,123 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:41:51,124 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:41:51,127 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:41:51,127 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:43:09,118 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:43:09,118 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:43:09,121 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:43:09,121 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:44:49,202 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:44:49,202 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:44:49,204 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:44:49,204 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:46:17,844 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:46:17,850 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:46:17,853 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:46:17,853 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
+2024-03-11 17:46:30,639 [Worker-10: Launching Automation_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:46:30,639 [Worker-10: Launching Automation_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/main/resources
+2024-03-11 17:46:30,642 [Worker-10: Launching Automation_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-11 17:46:30,642 [Worker-10: Launching Automation_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/codeclouds-bikram/Documents/Ecommerce-Automation/Automation/src/test/resources
